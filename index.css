@@ -5,27 +5,16 @@
 }
 
 body{
-	font: normal small-caps 400 2.4vh/3.6vh serif;
+	background-color: beige;
 }
 article{
-	background-color: beige;
+	background-color: rgb(214, 205, 174);
 	color: maroon;
 	margin: 5px 0;
 	padding: 10px 5px;
 }
 
-h1{
-	font-size: 4.8vh;
-	line-height: 7.2vh;
-	color: grey;
-}
 
-h2{
-	font-size: 3.6vh;
-	line-height: 5.4vh;
-	font-style: initial;
-	color:grey;
-}
 
 h1, h2{
 	font-family:sans-serif;
