@@ -1,0 +1,15 @@
+*{
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+p{
+
+	color: maroon;
+	/*padding-bottom: 5px*/
+	/*padding: 3px 10px 20px 0;*/
+	/*順時鐘方向做內縮設定 上 右 下 左*/
+	/*padding: 10px 0;*/
+	padding: 5px 0 10px;
+}
