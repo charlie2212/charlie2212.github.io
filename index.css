@@ -4,11 +4,8 @@
 	padding: 0;
 }
 
-body{
-	background-color:white;
-}
+
 article{
-	background-color: rgb(214, 205, 174);
 	color: maroon;
 	margin: 5px 0;
 	padding: 10px 5px;
