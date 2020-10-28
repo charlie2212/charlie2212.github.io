@@ -1,7 +1,7 @@
 *{
 	box-sizing: border-box;
 	margin: 0;
-	padding: 10px 0;
+	padding: 5px 0;
 }
 
 
@@ -16,7 +16,7 @@ article{
 h2{
 	font-family:sans-serif;
 	color:grey;
-	font-size: 3.6vh;
+	font-size: 4.8vh;
 }
 
 section{
