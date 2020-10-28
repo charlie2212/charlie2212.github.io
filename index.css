@@ -18,8 +18,8 @@ h2{
 	font-family:sans-serif;
 	color:grey;
 	font-size: 4.8vh;
-	border-style: dotted;
-	border-color: rgb(242, 242, 225);
+	border-style: groove;
+	border-color: antiquewhite;
 }
 
 section{
