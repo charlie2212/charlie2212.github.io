@@ -16,6 +16,7 @@ nav{
 div#container{
 	height: 100%;
 	width: 70%;
+	margin-left: 30%;
 	background-color: #f7ede2;
 	padding: 5px 10px;
 }
