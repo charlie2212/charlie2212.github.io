@@ -8,16 +8,18 @@ body{
 	height: 100%;
 	overflow-x: hidden;
 	overflow-y: auto;
-	font:2.4vh/3.6vh serif;
+	font: 2.4vh/3.6vh serif;
 }
 
 nav{
 	position: fixed;
 	padding: 5px 10px;
 	background-color: #f28482;
-	color:white;
-	font-family: sans-serif;
+	color: white;
+	font-family: serif;
 	font-size: 2.4vh;
+  width: 30%;
+  line-height: 6vh;
 }
 
 div#container{
