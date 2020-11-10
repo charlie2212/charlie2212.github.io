@@ -6,7 +6,7 @@
 
 nav{
 	position: fixed;
-	right: 70%;
+	right: 30%;
 	padding: 5px 10px;
 	background-color: purple;
 	color:white;
@@ -24,7 +24,7 @@ div#container{
 	height: 100%;
 	width: 70%;
 	margin-left: 30%;
-	background-color: grey;
+	background-color: #f7ede2;
 	padding: 5px 10px;
 }
 
