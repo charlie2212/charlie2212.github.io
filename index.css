@@ -4,6 +4,14 @@
 	padding: 5px 0;
 }
 
+body{
+	width: 100%;
+	height: 100%;
+	overflow-x: hidden;
+	overflow-y: auto;
+	font:2.4vh/3.6vh serif;
+}
+
 nav{
 	position: fixed;
 	padding: 5px 10px;
@@ -19,24 +27,4 @@ div#container{
 	margin-left: 30%;
 	background-color: #f7ede2;
 	padding: 5px 10px;
-}
-
-article{
-	color: maroon;
-	margin: 10px 0;
-	padding: 20px 10px;
-	line-height: 5vh;
-}
-
-h2{
-
-	font-family:sans-serif;
-	color:grey;
-	font-size: 4.8vh;
-	border-style: groove;
-	border-color: antiquewhite;
-}
-
-section{
-	margin: 3px;
 }
