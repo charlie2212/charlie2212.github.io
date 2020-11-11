@@ -18,7 +18,7 @@ body{
 
 
 ul.drop-down-menu{
-  position: relative;
+  position: fixed;
 	border: #ccc 1px solid;
 	display: inline-block;
 	font-family: 'Open Sans', Arial, sans-serif;
