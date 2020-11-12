@@ -67,7 +67,7 @@ ul.drop-down-menu li:hover > ul {
 div#container{
   position: absolute;
 	height: 100%;
-	width: 90%;
+	width: 80%;
 	margin-left: 20%;
 	padding: 5px 10px;
 }
