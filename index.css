@@ -11,63 +11,73 @@ body{
 	height: 100%;
 	overflow-x: hidden;
 	overflow-y: auto;
-	font: 4.8vh/7.2vh;
-  font-family: 'Big Shoulders Inline Text', cursive;
-  border-radius: 50%;
+  	font-family: 'Raleway', sans-serif;
+  	border-radius: 50%;
 }
 
+header {
+    position: fixed;
+
+}
+
+div#container{
+ 
+	height: 80vh;
+	width: 80vw;
+	margin-left: 20%;
+	padding: 25vh 10vh ;
+}
+
+div#profileImg{
+	position: fixed;
+	padding-top:25vh;
+	padding-left: 5vh;
+}
 
 ul.drop-down-menu{
-  position: fixed;
-	border: #ccc 1px solid;
-	display: inline-block;
-	font-family: 'Open Sans', Arial, sans-serif;
-	font-size: 2.4vh;
-	
+border: #ccc 1px solid;
+display: inline-block;
+font-size: 2.4vh;
 }
 
 ul.drop-down-menu li{
-	position: relative;
-	white-space: nowrap;
-	border-right: #ccc 1px solid;
+position: relative;
+white-space: nowrap;
+border-right: #ccc 1px solid;
 }
 
 ul.drop-down-menu > li:last-child {
-	border-right: none;  
+border-right: none;  
 }
 
-
+ul.drop-down-menu > li{
+	float: left;
+}
 
 ul.drop-down-menu a{
-	background-color: #f28482;
-	color:white;
-	display: block;
-	padding: 0 30px;
-	text-decoration: none;
-	line-height: 40px;
+background-color: #f28482;
+color:white;
+display: block;
+padding: 0 30px;
+text-decoration: none;
+line-height: 40px;
 }
 
 ul.drop-down-menu a:hover{
-	background-color: #f5cac3;
-	color:#f28482;
+background-color: #f5cac3;
+color:#f28482;
 }
 
 ul.drop-down-menu li:hover >a {
-	background-color: #f5cac3;
-	color: #f28482;
+background-color: #f5cac3;
+color: #f28482;
 }
 
 ul.drop-down-menu ul{
-	display: none;
+display: none;
 }
 
 ul.drop-down-menu li:hover > ul {
-	display: block;
+display: block;
 }
-div#container{
-  position: absolute;
-	height: 100%;
-	width: 80%;
-	margin-left: 20%;
-	padding: 5px 10px;
-}
+
