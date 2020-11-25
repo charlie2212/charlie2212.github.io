@@ -15,29 +15,16 @@ body{
   	border-radius: 50%;
 }
 
-header {
-    position: fixed;
-
+article{
+	padding: 10vh;
 }
 
-div#container{
- 
-	height: 70vh;
-	width: 80vw;
-	margin-left: 20%;
-	padding: 25vh 10vh ;
-}
 
-div#profileImg{
-	position: fixed;
-	padding-top:25vh;
-	padding-left: 7vh;
-}
 
 ul.drop-down-menu{
-padding-left: 35vh;
+padding-left: 0;
 display: inline-block;
-font-size: 2.4vh;
+font-size: 3vh;
 }
 
 ul.drop-down-menu li{
@@ -60,6 +47,8 @@ display: block;
 padding: 0 30px;
 text-decoration: none;
 line-height: 40px;
+letter-spacing: 3px;
+border-spacing: 3px;
 }
 
 ul.drop-down-menu a:hover{
