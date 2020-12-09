@@ -14,13 +14,6 @@ body{
   	border-radius: 50%;
 }
 
-div#dwheader{
-	padding: 5vh;
-	background-color: #4a4e69;
-	color: #f2e9e4;
-	width: 100vw;
-	height:20vh;
-} 
 
 ul.drop-down-menu{
 padding-left: 35vh;
