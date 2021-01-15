@@ -7,16 +7,27 @@
 
 
 body{
-	width: 70%;
+	width: 100%;
 	height: 100%;
 	overflow-x: hidden;
 	overflow-y: auto;
   	font-family: 'Raleway', sans-serif;
-  	border-radius: 50%;
   	line-height: 5vh;
-  	background-color: beige;
+  	background-color: white;
 }
 
+article{
+	font-size: 2.5vh;
+	width: 100%;
+	padding: 5vh;
+	margin:0 1.5vh;
+	text-align: center;
+}
+
+img{
+	float:left;
+	width: 44vh;
+}
 
 
 ul.drop-down-menu{

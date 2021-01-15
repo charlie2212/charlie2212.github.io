@@ -7,13 +7,14 @@
 
 
 body{
-	width: 70%;
+	width: 100%;
 	height: 100%;
 	overflow-x: hidden;
 	overflow-y: auto;
   	font-family: 'Raleway', sans-serif;
   	border-radius: 50%;
   	line-height: 5vh;
+  	background-color: white;
 }
 
 article{
@@ -22,6 +23,7 @@ article{
 	padding: 5vh;
 	margin:0 1.5vh;
 }
+
 
 
 ul.drop-down-menu{
