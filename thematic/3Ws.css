@@ -14,9 +14,14 @@ body{
   	font-family: 'Raleway', sans-serif;
   	border-radius: 50%;
   	line-height: 5vh;
-  	background-color: beige;
 }
 
+article{
+	font-size: 2.5vh;
+	width: 100%;
+	padding: 5vh;
+	margin:0 1.5vh;
+}
 
 
 ul.drop-down-menu{
