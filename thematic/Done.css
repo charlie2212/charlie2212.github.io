@@ -19,12 +19,13 @@ body{
 
 
 
-
-
 ul.drop-down-menu{
-padding-left: 0;
+width: 100vw;
+padding-left: 25vw;
+padding-right: 10vw;
+padding-bottom: 10vh;
 display: inline-block;
-font-size: 3vh;
+font-size: 2vh;
 }
 
 ul.drop-down-menu li{
@@ -68,4 +69,3 @@ display: none;
 ul.drop-down-menu li:hover > ul {
 display: block;
 }
-

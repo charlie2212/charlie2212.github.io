@@ -19,15 +19,15 @@ article{
 	font-size: 2.5vh;
 	width: 100%;
 	padding: 5vh;
-	margin-top: 0;
+	margin:0 1.5vh;
 }
 
 
 
 ul.drop-down-menu{
 width: 100vw;
-padding-left: 20vw;
-padding-right: 20vw;
+padding-left: 25vw;
+padding-right: 10vw;
 padding-bottom: 10vh;
 display: inline-block;
 font-size: 2vh;
@@ -73,8 +73,4 @@ display: none;
 
 ul.drop-down-menu li:hover > ul {
 display: block;
-}
-
-img {
-	opacity: 0.6;
 }
